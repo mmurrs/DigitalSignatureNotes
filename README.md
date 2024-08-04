@@ -1,4 +1,4 @@
-# DigitalSignatureNotes
+# Digital Signature Notes
 
 Notes covering tbe Overview of Digital Signature Schemes: Schnorr, ECDSA, BLS
 
